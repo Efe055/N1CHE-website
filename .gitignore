@@ -2,6 +2,7 @@ node_modules/
 .env
 .tmp/
 dist/
-*.png
 baggyclothing.us_.png
+whebshop_images/
+brand_assets/
 .claude/
